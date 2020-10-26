@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const BASE_URL = 'https://react-next-movie.heroku.com'
+const BASE_URL = `${process.env.BASE_URL}`
 
 const MOVIE_DATA = []
 
