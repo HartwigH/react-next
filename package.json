@@ -4,8 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "node server/index.js",
-    "build": "next build",
-    "start": "next start"
+    "build": "node server/index.js",
+    "start": "npm run build"
   },
   "dependencies": {
     "@zeit/next-css": "^1.0.1",
