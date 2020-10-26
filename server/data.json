@@ -1,0 +1,47 @@
+[
+  {
+    "id": "2",
+    "name": "The Dark Knight",
+    "releaseYear": 2008,
+    "description": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "longDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "rating": 4.7,
+    "genre": "action, crime, drama",
+    "image": "https://img.cinemablend.com/filter:scale/quill/c/3/8/0/f/4/c380f4f12cfeec19f0c40c6f57db188f2f98cca8.jpg?mw=600",
+    "cover": "https://images2.minutemediacdn.com/image/upload/c_crop,h_730,w_1300,x_0,y_10/v1554919442/shape/mentalfloss/dark_knight_hed.png?itok=0a2G7wZC"
+  },
+  {
+    "id": "3",
+    "name": "Lord of the Rings",
+    "releaseYear": 2004,
+    "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+    "longDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "rating": 4.9,
+    "genre": "adventure, drama, fantasy",
+    "image": "https://img.cinemablend.com/filter:scale/quill/0/f/5/2/a/6/0f52a6843a25c1a5c1f9a0c00548cad9e1d912e2.jpg?mw=600",
+    "cover": "https://cms.qz.com/wp-content/uploads/2018/05/gandalf-lord-of-the-rings-minas-tirith-e1527276212907.jpg?quality=75&strip=all&w=1600&h=900&crop=1",
+    "[object HTMLSelectElement]": "crime"
+  },
+  {
+    "name": "Breaking Bad",
+    "description": "Breaking Bad is an American neo-Western crime drama television series created and produced by Vince Gilligan.",
+    "rating": "5",
+    "image": "https://images.indianexpress.com/2018/01/breaking-bad-1200.jpg",
+    "cover": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2017/12/BB5-8SHOT_RGB_V8_8x12-1200x707.jpg",
+    "longDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "[object HTMLSelectElement]": "crime",
+    "id": "8mcu4",
+    "genre": "drama,crime"
+  },
+  {
+    "name": "Gone girl",
+    "description": "Gone Girl is a 2014 American psychological thriller film directed by David Fincher and with a screenplay by Gillian Flynn based on her 2012 novel of the same title. ",
+    "rating": "4",
+    "image": "https://www.omahacentralregister.com/wp-content/uploads/2014/12/gone-girl-david-fincher-et.jpg",
+    "cover": "https://www.highonfilms.com/wp-content/uploads/2019/07/Gone-Girl-Rosamund-Pike-1.jpg",
+    "longDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+    "[object HTMLSelectElement]": "drama",
+    "id": "1t01w",
+    "genre": "drama"
+  }
+]

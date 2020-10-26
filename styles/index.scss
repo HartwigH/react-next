@@ -1,0 +1,55 @@
+body {
+    min-height: 100vh;
+    position: relative;
+    margin: 0;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.home-page {
+    .movie-genre {
+        color     : gray;
+        font-style: italic;
+    }
+}
+
+.navbar {
+    min-height: 80;
+
+    >li>a {
+        font-size: 18px;
+    }
+}
+
+.navbar-brand {
+    font-size  : 30px;
+    font-weight: bold;
+}
+
+.base-page {
+    padding-top: 80px;
+}
+
+.desc-text {
+    font-size: 22px;
+}
+
+.carousel-item {
+    max-height: 400px;
+}
+
+.my-button {
+    margin-top: 20px;
+}
+
+.base-page {
+    padding-bottom: 200px;
+}
+
+.my-main {
+    height: 400px;
+}
